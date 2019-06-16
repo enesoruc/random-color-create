@@ -1,0 +1,10 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\bin\Debug\soru1.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\bin\Debug\soru1.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\bin\Debug\soru1.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.csprojAssemblyReference.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.Form1.resources
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.Properties.Resources.resources
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.csproj.GenerateResource.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_27032019\soru1\obj\Debug\soru1.pdb
