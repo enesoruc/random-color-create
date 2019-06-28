@@ -1,1 +1,1 @@
-# random-color-create
+Random renklerin üretildiği bir WinForm uygulamasıdır
